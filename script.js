@@ -114,7 +114,7 @@ for (let i = 1; i < M.length; i++) {
     smallest = M[i];
   }
 }
-document.write("Array items: " + A + "<br>");
+document.write("Array items: " + M + "<br>");
 document.write("The smallest number is " + smallest);
 
 
